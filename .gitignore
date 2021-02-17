@@ -127,6 +127,7 @@ dmypy.json
 
 avapi_key.json
 *.json
+*.csv
 
 # Pyre type checker
 .pyre/
